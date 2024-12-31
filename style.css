@@ -127,7 +127,7 @@ body {
 
   /* Hero Section Styles */
   .hero {
-    background-image:url(./Asserts/decor\ img2.png);
+    background-image:url(./decor\ img2.png);
     background-size: 1100px 600px;
     height: 95vh;
     position: relative;
